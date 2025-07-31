@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "67748b6e606e5e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a379ac134c89c600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43dbaa4c06c5bdc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "13f2a13c00d822ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice-Exercises-01-Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice-Exercises-01-Variables"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "88cdb8d1906cc7e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f09daa58da5a8c5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f234b39e8854bfe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c18dd559c47ffb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe1d86872deb203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "46cb75f22d040ea0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5b378e6e855d8ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3a41559f97d8406",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf9e356cb603580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57378539919680a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practice-Exercises-01-Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Practice-Exercises-01-Variables"
+            }
+          },
+          {
+            "id": "1c8d879603c9836f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Practice-Exercises-01-Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Practice-Exercises-01-Variables"
+            }
+          },
+          {
+            "id": "580e62aa8f1bce01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8560aa5981943806",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Practice-Exercises-01-Variables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Practice-Exercises-01-Variables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13f2a13c00d822ef",
+  "lastOpenFiles": [
+    "Practice-Exercises-.md",
+    "Practice-Exercises-01-Variables.md",
+    "Welcome.md"
+  ]
+}
