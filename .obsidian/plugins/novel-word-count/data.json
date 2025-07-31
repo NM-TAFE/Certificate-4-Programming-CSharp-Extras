@@ -1,0 +1,207 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "Practice-Exercises-01-Variables.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 1401,
+      "nonWhitespaceCharacterCount": 692,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1753924813034,
+      "modifiedDate": 1753926650081,
+      "sizeInBytes": 1401,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43,
+        "wordCount": 129,
+        "characterCount": 1608,
+        "nonWhitespaceCharacterCount": 847,
+        "newlineCount": 75
+      }
+    },
+    "Templates/Practice-Exercises-.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 266,
+      "nonWhitespaceCharacterCount": 161,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1753924843944,
+      "modifiedDate": 1753927100113,
+      "sizeInBytes": 266,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Templates/Exercise-Structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 37,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 189,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.13962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1753926507297,
+      "modifiedDate": 1753926630728,
+      "sizeInBytes": 239,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Practice-Exercises-00-Hello-World.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 128,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 1008,
+      "nonWhitespaceCharacterCount": 769,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 0.4830188679245283,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1753927108622,
+      "modifiedDate": 1753927457797,
+      "sizeInBytes": 1008,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "ReadMe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 3579,
+      "nonWhitespaceCharacterCount": 2127,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 0.4,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1753924791400,
+      "modifiedDate": 1753928406107,
+      "sizeInBytes": 3579,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    }
+  }
+}

@@ -1,4 +1,7 @@
 [
-  "obsidian-git",
-  "webpage-html-export"
+  "github-sync",
+  "slides-extended",
+  "readability-score",
+  "novel-word-count",
+  "obsidian-notes-from-template"
 ]
